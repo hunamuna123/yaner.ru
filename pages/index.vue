@@ -8,7 +8,7 @@
       <div class="links">
         <a href="https://t.me/yaner_4" target="_blank" class="link">
           <img src="/telegram.png" alt="" style="width: 24px;">
-          Telegram
+          Тг(название - Янер)
         </a>
         <a href="https://twitch.tv/yaner_4" target="_blank" class="link">
           <img src="/twitch.png" alt="" style="width: 24px;">
