@@ -12,7 +12,7 @@
         </a>
         <a href="https://twitch.tv/yaner_4" target="_blank" class="link">
           <img src="/twitch.png" alt="" style="width: 24px;">
-          Twitch
+          Твич
         </a>
         <a href="https://vk.com/id656800680" target="_blank" class="link">
           <img src="/vk.png" alt="" style="width: 24px;">
@@ -24,7 +24,7 @@
         </a>
         <a href="https://www.instagram.com/yanerjk?igsh=eWNxZnY4ZXd6aTl3&utm_source=qr" target="_blank" class="link">
           <img src="/instagram.png" alt="" style="width: 24px;">
-          Instagram
+          Инста
         </a>
 
       </div>
