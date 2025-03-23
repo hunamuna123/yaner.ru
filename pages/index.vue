@@ -1,7 +1,7 @@
 <template>
     <div class="container">
       <div class="header">
-        <img src="/dog.webp" alt="Янер" class="avatar" />
+        <img src="/dog.WEBP" alt="Янер" class="avatar" />
         <h1>Янер</h1>
         <p class="subtitle">👇 Тут необходимые ссылки 👇</p>
       </div>
