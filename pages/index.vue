@@ -20,7 +20,7 @@
         </a>
         <a href="https://t.me/yaner_for_all" target="_blank" class="link">
           <img src="/telegram.png" alt="" style="width: 24px;">
-          Написать напрямую
+          Написать мне
         </a>
         <a href="https://www.instagram.com/yanerjk?igsh=eWNxZnY4ZXd6aTl3&utm_source=qr" target="_blank" class="link">
           <img src="/instagram.png" alt="" style="width: 24px;">
