@@ -29,7 +29,8 @@
       </div>
     </div>
   </template>
-  
+
+
   <style scoped>
   .container {
     display: flex;
