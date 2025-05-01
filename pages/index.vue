@@ -10,9 +10,6 @@
         <img src="/telegram.png" alt="" style="width: 24px;">
         Мой Тг(🎁 ЗАБРАТЬ 6 ОСКОЛКОВ 🎁) 
       </a>
-      <a href="https://t.me/+v9DpNukRKnM1YTVi" target="_blank" class="link">
-        <img src="/telegram.png" alt="" style="width: 24px;">
-      </a>
       <a href="https://twitch.tv/yaner_4" target="_blank" class="link">
         <img src="/twitch.png" alt="" style="width: 24px;">
         Твич
