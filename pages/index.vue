@@ -8,11 +8,10 @@
     <div class="links">
       <a href="https://t.me/yaner_4" target="_blank" class="link">
         <img src="/telegram.png" alt="" style="width: 24px;">
-        Тг(название - Янер)
+        Мой Тг(🎁 ЗАБРАТЬ 6 ОСКОЛКОВ 🎁) 
       </a>
       <a href="https://t.me/+v9DpNukRKnM1YTVi" target="_blank" class="link">
         <img src="/telegram.png" alt="" style="width: 24px;">
-        🎁 ЗАБРАТЬ 6 ОСКОЛКОВ 🎁
       </a>
       <a href="https://twitch.tv/yaner_4" target="_blank" class="link">
         <img src="/twitch.png" alt="" style="width: 24px;">
