@@ -41,7 +41,7 @@
 </template>
 
 
-<style scoped>
+<style>
 .container {
   display: flex;
   font-family: Nunito;
@@ -50,7 +50,6 @@
   background: #1a1a1a;
   color: white;
   height: 100vh;
-  padding-top: 20px;
 }
 
 .header {
