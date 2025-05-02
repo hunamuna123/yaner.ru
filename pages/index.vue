@@ -6,10 +6,13 @@
       <p class="subtitle">👇 Тут необходимые ссылки 👇</p>
     </div>
     <div class="links">
-      <a href="https://t.me/yaner_4" target="_blank" class="link">
+      <a href="https://t.me/+qy4G8jl-e9U0ZjUy" target="_blank" class="link">
         <img src="/telegram.png" alt="" style="width: 24px;">
-        Мой Тг(🎁 ЗАБРАТЬ 6 ОСКОЛКОВ 🎁) 
+        Мой Тг(🎁 ЗАБРАТЬ 6 ОСКОЛКОВ 🎁)
       </a>
+      <div class="hint">
+        ❗Канал с автоматическим принятием заявок! ⬆️
+      </div>
       <a href="https://twitch.tv/yaner_4" target="_blank" class="link">
         <img src="/twitch.png" alt="" style="width: 24px;">
         Твич
@@ -27,7 +30,14 @@
         Инста
       </a>
 
+      <div class="hint">
+        ❓ Если не открывается:
+        нажми сверху справа <br> «три точки» -> «открыть в браузере»
+
+      </div>
     </div>
+
+
     <div style="margin-top: auto; margin-bottom: 30px;">
       <a href="https://t.me/hunadev" target="_blank" class="secret">
         by huna.muna
@@ -35,7 +45,6 @@
     </div>
   </div>
 </template>
-
 
 <style>
 .container {
@@ -90,10 +99,31 @@
 .link:hover {
   background: #444;
 }
+
+.hint {
+  color: #ccc;
+  font-size: 14px;
+  padding: 10px 14px;
+  border-radius: 6px;
+  margin: 3px 0;
+  text-align: center;
+  line-height: 1.4;
+}
+
+.hint a {
+  color: #66ccff;
+  text-decoration: underline;
+}
+
+.hint a:hover {
+  color: #99ddff;
+}
+
 .secret {
   text-decoration: none;
   color: white;
 }
+
 .secret:hover {
   text-decoration: underline;
   color: white;
