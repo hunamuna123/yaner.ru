@@ -11,7 +11,7 @@
         Мой Тг(🎁 ЗАБРАТЬ 6 ОСКОЛКОВ 🎁)
       </a>
       <div class="hint">
-        ❗Канал с автоматическим принятием заявок! ⬆️
+        ⬆️ Канал с автоматическим принятием заявок!
       </div>
       <a href="https://twitch.tv/yaner_4" target="_blank" class="link">
         <img src="/twitch.png" alt="" style="width: 24px;">
@@ -102,7 +102,7 @@
 
 .hint {
   color: #ccc;
-  font-size: 14px;
+  font-size: 12px;
   padding: 10px 14px;
   border-radius: 6px;
   margin: 3px 0;
