@@ -6,7 +6,7 @@
       <p class="subtitle">👇 Тут необходимые ссылки 👇</p>
     </div>
     <div class="links">
-      <a href="https://t.me/+qy4G8jl-e9U0ZjUy" target="_blank" class="link">
+      <a href="https://t.me/+R0sDZoZXiw9jN2Iy" target="_blank" class="link">
         <img src="/telegram.png" alt="" style="width: 24px;">
         Мой Тг(🎁 ЗАБРАТЬ 6 ОСКОЛКОВ 🎁)
       </a>
