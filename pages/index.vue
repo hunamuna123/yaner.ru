@@ -8,7 +8,7 @@
     <div class="links">
       <a href="https://t.me/yaner_4" target="_blank" class="link">
         <img src="/telegram.png" alt="" style="width: 24px;">
-        Мой Тг(🎁 ЗАБРАТЬ 6 ОСКОЛКОВ 🎁)
+        Мой Тг(🎁 ЗАБРАТЬ ЭВОЛЮЦИЮ 🎁)
       </a>
       <div class="hint">
         ⬆️ Канал с автоматическим принятием заявок!
