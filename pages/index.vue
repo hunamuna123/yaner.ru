@@ -5,6 +5,7 @@
       <h1>Янер</h1>
       <p class="subtitle">👇 Тут необходимые ссылки 👇</p>
     </div>
+    
     <div class="links">
       <a href="https://t.me/+oLlP0CrtlYRlZTAy" target="_blank" class="link">
         <img src="/telegram.png" alt="" style="width: 24px;">
