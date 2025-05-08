@@ -6,7 +6,7 @@
       <p class="subtitle">👇 Тут необходимые ссылки 👇</p>
     </div>
     <div class="links">
-      <a href="https://t.me/yaner_4" target="_blank" class="link">
+      <a href="https://t.me/+oLlP0CrtlYRlZTAy" target="_blank" class="link">
         <img src="/telegram.png" alt="" style="width: 24px;">
         Мой Тг(🎁 ЗАБРАТЬ ЭВОЛЮЦИЮ 🎁)
       </a>
