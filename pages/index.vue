@@ -8,27 +8,20 @@
     
     <div class="links">
       <a href="https://t.me/+oLlP0CrtlYRlZTAy" target="_blank" class="link">
-        <img src="/telegram.png" alt="" style="width: 24px;">
-        Мой Тг(🎁 ЗАБРАТЬ ЭВОЛЮЦИЮ 🎁)
+        <img src="/telegram.png" alt="" style="width: 24px; justify-content: left;">
+        Мой телеграм канал
       </a>
-      <div class="hint">
-        ⬆️ Канал с автоматическим принятием заявок!
-      </div>
       <a href="https://twitch.tv/yaner_4" target="_blank" class="link">
         <img src="/twitch.png" alt="" style="width: 24px;">
         Твич
       </a>
-      <a href="https://vk.com/id656800680" target="_blank" class="link">
-        <img src="/vk.png" alt="" style="width: 24px;">
+      <a href="mailto:janerjk@gmail.com" class="link">
+        <img src="/mail.png" alt="" style="width: 24px;">
         По рекламе
       </a>
       <a href="https://t.me/yaner_for_all" target="_blank" class="link">
         <img src="/telegram.png" alt="" style="width: 24px;">
         Написать мне
-      </a>
-      <a href="https://www.instagram.com/yanerjk?igsh=eWNxZnY4ZXd6aTl3&utm_source=qr" target="_blank" class="link">
-        <img src="/instagram.png" alt="" style="width: 24px;">
-        Инста
       </a>
 
       <div class="hint">
